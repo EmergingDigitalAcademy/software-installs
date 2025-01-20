@@ -17,7 +17,7 @@ At this point we will have a Postgres server program running on our local comput
 
 First thing we need to do is establish a connection to our server. Postico allows you to save many different connections. For now, we just need one to connect to the database server on our local computer.
 
-### Create New Favorite
+### Create New Server
 
 >> Make sure your database server is running -- see Starting/Stopping
 
