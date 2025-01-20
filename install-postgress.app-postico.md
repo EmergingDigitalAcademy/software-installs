@@ -22,7 +22,8 @@ First thing we need to do is establish a connection to our server. Postico allow
 >> Make sure your database server is running -- see Starting/Stopping
 
 1. Select New Server
-![New Server](https://github.com/user-attachments/assets/e6d541cf-cc8e-4edf-af63-48ed8f6946fd)
+![New Server](https://github.com/user-attachments/assets/bc670a6d-b759-46be-935a-0196a3cf83fa)
+
 
 2. Fill in this form as follows:
 
